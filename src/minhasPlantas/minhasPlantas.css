@@ -1,0 +1,31 @@
+.minhasPlantas{
+    display: flex;
+    background-color: #fff;
+    padding: 100px;
+    gap: 50px;
+
+}
+
+.div-minhas{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+}
+.img-planta{
+    width: 585px;
+}
+.div-planta{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+p{
+    color: #202020;
+    font-size: 22px;
+    font-family: Montserrat;
+}
+h1{
+    color: #202020;
+    font-size: 42px;
+    font-family: Elsie Swash Caps;
+}

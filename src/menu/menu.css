@@ -1,0 +1,15 @@
+
+
+.menu{
+    display: flex;
+   justify-content: space-around;
+}
+.menu div{
+    display: flex;
+    gap: 15px;
+}
+.menu div a {
+    margin: 18px 0px;
+    text-decoration: none;
+    color: #202020;
+}
